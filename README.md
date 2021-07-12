@@ -1,4 +1,4 @@
-# OneArc Colorscheme
+# OneArc Colorscheme for Neovim
 ![screenshot1](https://user-images.githubusercontent.com/35747911/124347914-91013280-dc19-11eb-8066-b71963dbddbb.png)
 
 ## Plugins Supported
