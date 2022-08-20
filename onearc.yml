@@ -23,7 +23,7 @@ palette:
   gutter_fg_grey: "#4B5263"
   cursor_grey: "#1c1e25"
   visual_grey: "#3E4452"
-  menu_grey: "#282C34"
+  menu_grey: "#242830"
   special_grey: "#3B4048"
   vertsplit: "#181A1F"
 
@@ -289,7 +289,7 @@ highlights:
   # MoreMsg: "green - br"
   # Question: "cyan - br"
   # Directory: "blue - b"
-  
+
   # VimWiki
   VimwikiHeader1: "orange - b"
   VimwikiHeader2: "green - b"
@@ -303,3 +303,43 @@ highlights:
   VimwikiList: "orange"
   VimwikiTag: "orange"
   VimwikiMarkers: "line_grey"
+
+  # nvim-cmp
+  CmpItemAbbrDeprecated: "line_grey"
+  CmpItemAbbrMatch: "blue"
+  CmpItemAbbrMatchFuzzy: "blue"
+  CmpItemKindVariable: "cyan"
+  CmpItemKindInterface: "cyan"
+  CmpItemKindText: "cyan"
+  CmpItemKindFunction: "purple"
+  CmpItemKindMethod: "purple"
+  CmpItemKindKeyword: "fg"
+  CmpItemKindProperty: "fg"
+  CmpItemKindUnit: "fg"
+
+  # Lspsaga
+  LspSagaDiagnosticTruncateLine: "black"
+  LspSagaCodeActionTruncateLine: "black"
+  LspSagaSignatureHelpBorder: "green"
+  LspSagaRenamePromptPrefix: "green"
+  LspSagaCodeActionContent: "green"
+  LspSagaDiagnosticHeader: "yellow"
+  LspSagaDiagnosticBorder: "blue"
+  LspSagaDefPreviewBorder: "cursor_grey"
+  LspSagaCodeActionBorder: "cursor_grey"
+  LspSagaLspFinderBorder: "blue"
+  LspSagaFinderSelection: "cursor_grey"
+  LspSagaDocTruncateLine: "blue"
+  LspSagaCodeActionTitle: "yellow"
+  LspSagaShTruncateLine: "black"
+  LspSagaLightBulbSign: "light_yellow"
+  LspSagaRenameBorder: "blue"
+  LspSagaHoverBorder: "line_grey"
+  LspSagaBorderTitle: "line_grey"
+  LspSagaAutoPreview: "yellow"
+  LspSagaLightBulb: "yellow"
+
+  LspDiagnosticsFloatingInfor: "blue"
+  LspDiagnosticsFloatingError: "red"
+  LspDiagnosticsFloatingWarn: "yellow"
+  LspDiagnosticsFloatingHint: "orange"

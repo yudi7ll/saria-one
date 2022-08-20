@@ -7,7 +7,7 @@
 - [x] [Startify](https://github.com/mhinz/vim-startify)
 - [x] [WhichKey](https://github.com/folke/which-key.nvim)
 - [x] [Easy Motion](https://github.com/easymotion/vim-easymotion)
-- [ ] [LSP Saga](https://github.com/kkharji/lspsaga.nvim)
+- [x] [LSP Saga](https://github.com/kkharji/lspsaga.nvim)
 
 ## Installation
 Vim-plug
