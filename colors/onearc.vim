@@ -261,3 +261,6 @@ hi LspDiagnosticsFloatingWarn guifg=#e5c07b ctermfg=180 guibg=NONE ctermbg=NONE 
 hi LspDiagnosticsFloatingHint guifg=#d19a66 ctermfg=173 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi FloatermBorder guifg=#abb2bf ctermfg=249 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi CocHighlightText guifg=NONE ctermfg=NONE guibg=#242830 ctermbg=235 gui=NONE cterm=NONE
+hi GitSignsAdd guifg=#61afef ctermfg=75 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi GitSignsChange guifg=#98c379 ctermfg=114 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi GitSignsDelete guifg=#e06c75 ctermfg=168 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE

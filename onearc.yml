@@ -350,3 +350,8 @@ highlights:
 
   # Coc
   CocHighlightText: "- menu_grey"
+
+  # Gitsigns
+  GitSignsAdd: "blue"
+  GitSignsChange: "green"
+  GitSignsDelete: "red"
