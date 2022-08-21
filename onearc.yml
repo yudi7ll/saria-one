@@ -21,7 +21,7 @@ palette:
   black: "#282C34"
   line_grey: "#5C6370"
   gutter_fg_grey: "#4B5263"
-  cursor_grey: "#1c1e25"
+  cursor_grey: "#1e212b"
   visual_grey: "#3E4452"
   menu_grey: "#242830"
   special_grey: "#3B4048"
@@ -339,7 +339,14 @@ highlights:
   LspSagaAutoPreview: "yellow"
   LspSagaLightBulb: "yellow"
 
+  # LSP Diagnostics
   LspDiagnosticsFloatingInfor: "blue"
   LspDiagnosticsFloatingError: "red"
   LspDiagnosticsFloatingWarn: "yellow"
   LspDiagnosticsFloatingHint: "orange"
+
+  # Floaterm
+  FloatermBorder: "fg"
+
+  # Coc
+  CocHighlightText: "menu_grey"

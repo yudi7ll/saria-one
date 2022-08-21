@@ -40,12 +40,12 @@ hi Error guifg=#f44747 ctermfg=203 guibg=NONE ctermbg=NONE gui=bold,reverse cter
 hi Todo guifg=#c678dd ctermfg=176 guibg=NONE ctermbg=NONE gui=bold,italic cterm=bold,italic
 hi Underlined guifg=#56b6c2 ctermfg=73 gui=underline cterm=underline
 hi Cursor guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=reverse cterm=reverse
-hi ColorColumn guifg=NONE ctermfg=NONE guibg=#1c1e25 ctermbg=234 gui=NONE cterm=NONE
+hi ColorColumn guifg=NONE ctermfg=NONE guibg=#1e212b ctermbg=235 gui=NONE cterm=NONE
 hi CursorLineNr guifg=#abb2bf ctermfg=249 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi SignColumn guifg=NONE ctermfg=NONE guibg=#121419 ctermbg=233 gui=NONE cterm=NONE
 hi Conceal guifg=#5c6370 ctermfg=241 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi CursorColumn guifg=NONE ctermfg=NONE guibg=#1c1e25 ctermbg=234 gui=NONE cterm=NONE
-hi CursorLine guifg=NONE ctermfg=NONE guibg=#1c1e25 ctermbg=234 gui=NONE cterm=NONE
+hi CursorColumn guifg=NONE ctermfg=NONE guibg=#1e212b ctermbg=235 gui=NONE cterm=NONE
+hi CursorLine guifg=NONE ctermfg=NONE guibg=#1e212b ctermbg=235 gui=NONE cterm=NONE
 hi Directory guifg=#61afef ctermfg=75 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi DiffAdd guifg=#282c34 ctermfg=236 guibg=#98c379 ctermbg=114 gui=NONE cterm=NONE
 hi DiffChange guifg=#e5c07b ctermfg=180 guibg=NONE ctermbg=NONE gui=underline cterm=underline
@@ -71,10 +71,10 @@ hi SpellBad guifg=#f44747 ctermfg=203 guibg=NONE ctermbg=NONE gui=underline cter
 hi SpellCap guifg=#e5c07b ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellLocal guifg=#e5c07b ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellRare guifg=#e5c07b ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi StatusLine guifg=#abb2bf ctermfg=249 guibg=#1c1e25 ctermbg=234 gui=NONE cterm=NONE
+hi StatusLine guifg=#abb2bf ctermfg=249 guibg=#1e212b ctermbg=235 gui=NONE cterm=NONE
 hi StatusLineNC guifg=#5c6370 ctermfg=241 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi StatusLineTerm guifg=#abb2bf ctermfg=249 guibg=#1c1e25 ctermbg=234 gui=NONE cterm=NONE
-hi StatusLineTermNC guifg=#1c1e25 ctermfg=234 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi StatusLineTerm guifg=#abb2bf ctermfg=249 guibg=#1e212b ctermbg=235 gui=NONE cterm=NONE
+hi StatusLineTermNC guifg=#1e212b ctermfg=235 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TabLine guifg=#5c6370 ctermfg=241 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TabLineSel guifg=#abb2bf ctermfg=249 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TabLineFill guifg=NONE ctermfg=NONE guibg=#121419 ctermbg=233 gui=NONE cterm=NONE
@@ -242,10 +242,10 @@ hi LspSagaRenamePromptPrefix guifg=#98c379 ctermfg=114 guibg=NONE ctermbg=NONE g
 hi LspSagaCodeActionContent guifg=#98c379 ctermfg=114 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LspSagaDiagnosticHeader guifg=#e5c07b ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LspSagaDiagnosticBorder guifg=#61afef ctermfg=75 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi LspSagaDefPreviewBorder guifg=#1c1e25 ctermfg=234 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi LspSagaCodeActionBorder guifg=#1c1e25 ctermfg=234 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi LspSagaDefPreviewBorder guifg=#1e212b ctermfg=235 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi LspSagaCodeActionBorder guifg=#1e212b ctermfg=235 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LspSagaLspFinderBorder guifg=#61afef ctermfg=75 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi LspSagaFinderSelection guifg=#1c1e25 ctermfg=234 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi LspSagaFinderSelection guifg=#1e212b ctermfg=235 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LspSagaDocTruncateLine guifg=#61afef ctermfg=75 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LspSagaCodeActionTitle guifg=#e5c07b ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LspSagaShTruncateLine guifg=#282c34 ctermfg=236 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -259,3 +259,5 @@ hi LspDiagnosticsFloatingInfor guifg=#61afef ctermfg=75 guibg=NONE ctermbg=NONE 
 hi LspDiagnosticsFloatingError guifg=#e06c75 ctermfg=168 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LspDiagnosticsFloatingWarn guifg=#e5c07b ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LspDiagnosticsFloatingHint guifg=#d19a66 ctermfg=173 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi FloatermBorder guifg=#abb2bf ctermfg=249 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi CocHighlightText guifg=#242830 ctermfg=235 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
