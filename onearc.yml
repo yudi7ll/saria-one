@@ -349,4 +349,4 @@ highlights:
   FloatermBorder: "fg"
 
   # Coc
-  CocHighlightText: "menu_grey"
+  CocHighlightText: "- menu_grey"
