@@ -339,11 +339,14 @@ highlights:
   LspSagaAutoPreview: "yellow"
   LspSagaLightBulb: "yellow"
 
-  # LSP Diagnostics
+  # LSP
   LspDiagnosticsFloatingInfor: "blue"
   LspDiagnosticsFloatingError: "red"
   LspDiagnosticsFloatingWarn: "yellow"
   LspDiagnosticsFloatingHint: "orange"
+  LspReferenceRead: "- menu_grey"
+  LspReferenceText: "- menu_grey"
+  LspReferenceWrite: "- menu_grey"
 
   # Floaterm
   FloatermBorder: "fg"
