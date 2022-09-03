@@ -228,6 +228,8 @@ highlights:
   CocExplorerFileModified: "purple"
   CocExplorerFileHidden: "line_grey"
   CocExplorerHelpLine: "purple"
+  CocHighlightText: "- menu_grey"
+  CocMenuSel: "black blue"
   # -- END CoC --
 
   # -- START Easymotion --
@@ -350,9 +352,6 @@ highlights:
 
   # Floaterm
   FloatermBorder: "fg"
-
-  # Coc
-  CocHighlightText: "- menu_grey"
 
   # Gitsigns
   GitSignsAdd: "blue"

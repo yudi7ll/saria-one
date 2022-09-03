@@ -185,6 +185,8 @@ hi CocExplorerFileReadonly guifg=#c678dd ctermfg=176 guibg=NONE ctermbg=NONE gui
 hi CocExplorerFileModified guifg=#c678dd ctermfg=176 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi CocExplorerFileHidden guifg=#5c6370 ctermfg=241 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi CocExplorerHelpLine guifg=#c678dd ctermfg=176 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi CocHighlightText guifg=NONE ctermfg=NONE guibg=#242830 ctermbg=235 gui=NONE cterm=NONE
+hi CocMenuSel guifg=#282c34 ctermfg=236 guibg=#61afef ctermbg=75 gui=NONE cterm=NONE
 hi EasyMotionTarget guifg=#f44747 ctermfg=203 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi EasyMotionTarget2First guifg=#f44747 ctermfg=203 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi EasyMotionTarget2Second guifg=#f44747 ctermfg=203 guibg=NONE ctermbg=NONE gui=bold cterm=bold
@@ -263,7 +265,6 @@ hi LspReferenceRead guifg=NONE ctermfg=NONE guibg=#242830 ctermbg=235 gui=NONE c
 hi LspReferenceText guifg=NONE ctermfg=NONE guibg=#242830 ctermbg=235 gui=NONE cterm=NONE
 hi LspReferenceWrite guifg=NONE ctermfg=NONE guibg=#242830 ctermbg=235 gui=NONE cterm=NONE
 hi FloatermBorder guifg=#abb2bf ctermfg=249 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi CocHighlightText guifg=NONE ctermfg=NONE guibg=#242830 ctermbg=235 gui=NONE cterm=NONE
 hi GitSignsAdd guifg=#61afef ctermfg=75 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi GitSignsChange guifg=#98c379 ctermfg=114 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi GitSignsDelete guifg=#e06c75 ctermfg=168 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
