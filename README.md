@@ -1,4 +1,4 @@
-# OneArc Colorscheme for Neovim
+# Saria One Colorscheme for Neovim
 ![screenshot1](https://user-images.githubusercontent.com/35747911/124347914-91013280-dc19-11eb-8066-b71963dbddbb.png)
 
 ## Plugins Supported
@@ -12,12 +12,12 @@
 ## Installation
 Vim-plug
 ```
-Plug 'yudi7ll/onearc.nvim'
+Plug 'yudi7ll/saria-one'
 ```
 
 Packer
 ```
-use {'yudi7ll/onearc.nvim'}
+use {'yudi7ll/saria-one'}
 ```
 
 ### Credits
