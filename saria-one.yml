@@ -5,7 +5,7 @@ information:
 
 palette:
   fg: "#ABB2BF"
-  bg: "#121419"
+  bg: "#1f1f1f"
 
   red: "#E06C75"
   error_red: "#F44747"
@@ -19,9 +19,10 @@ palette:
   cyan: "#56B6C2"
   white: "#ABB2BF"
   black: "#282C34"
+  text_grey: "#a9b7c6"
   line_grey: "#5C6370"
   gutter_fg_grey: "#4B5263"
-  cursor_grey: "#1e212b"
+  cursor_grey: "#292929"
   visual_grey: "#3E4452"
   menu_grey: "#242830"
   special_grey: "#3B4048"
@@ -151,7 +152,7 @@ highlights:
   "@structure": "light_purple"
   "@include": "purple"
   # Variable
-  "@variable": "blue"
+  "@variable": "text_grey"
   "@variable.builtin": "yellow"
   # Text
   "@text": "light_yellow"
